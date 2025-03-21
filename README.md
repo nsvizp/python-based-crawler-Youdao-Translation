@@ -1,2 +1,2 @@
-# python-based-crawler-Youdao-Translation
+# 2025有道翻译爬虫接口
 有道2025最新可用翻译爬虫，python爬虫
